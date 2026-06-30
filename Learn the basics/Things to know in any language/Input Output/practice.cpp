@@ -4,6 +4,8 @@ using namespace std; // Remove the need to use prefix std::
 
 int main(){
     std::cout <<"hey prajwal";
+    std::cout <<"hey prajwal";
+    
     std::cout <<"hey prajwal"; // printing on multiple lines
     std::cout<<"hey prajwal"<< "\n"; //print on the new lines
     std::cout<<"hey prajwal";
